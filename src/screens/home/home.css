@@ -1,0 +1,119 @@
+.main--container {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.main--img,
+.main--sub-img {
+    width: 100%;
+    margin: 0;
+}
+
+.main--sub-img {
+    margin-top: -10px;
+}
+
+.main--panel-lateral-derecho {
+    position: absolute;    
+    top: 54px;
+    width: 150px;
+    right: -20px;
+    opacity: 1;
+}
+
+.main--panel-lateral-novedades {
+    position: absolute;    
+    top: 180px;
+    width: 750px;
+    right: -640px;
+}
+
+.main--panel-lateral-novedades-2 {
+    position: absolute;    
+    top: 180px;
+    width: 850px;
+    right: -50px;
+    opacity: 1;
+}
+
+.main--cards-container {
+    background-image:url('../../assets/rectangulo.png');
+    background-size: 100% 100%;
+    margin-top : -60px;
+    padding-top: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.main--cards-subtitle {
+    position: absolute;
+    bottom : -10px;
+    color : white
+}
+
+.main--welcome {
+    position: absolute;
+    left: 100px;
+    top : 20vw;
+    color : white;
+}
+
+.transitioned {
+    transition: all 1s;
+    z-index: 9;
+}
+
+.transitioned .content {
+    background: transparent linear-gradient(180deg,#ec0505,#e01919 11%,#c93f3f 100%,#f16c6c 0) 0 0 no-repeat padding-box;
+    color : white;
+    padding: 5px;
+    border-radius: 80px;
+    padding-right: 50px;
+}
+
+.transitioned .content > * {
+    margin:  0;
+}
+
+@media (max-width : 991px) {
+    .main--cards-container {
+        background-image:url('../../assets/rectangulo.png');
+        background-size: 100% 100%;
+        margin-top: 0;
+        padding: 20px;
+        
+        align-items: center;
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width : 850px) {
+    .main--panel-lateral-novedades-2 {
+        position: absolute;    
+        top: 180px;
+        width: 80%;
+        right: -10%;
+        opacity: 1;
+    } 
+    .main--welcome {
+        position: absolute;
+        left: 10vw;
+        top : 10vw;
+        color : white;
+    }
+    .main--panel-lateral-derecho {
+        position: absolute;    
+        top: 10px;
+        width: 130px;
+        right: -10px;
+        opacity: 1;
+    }
+    .main--panel-lateral-novedades,
+    .main--panel-lateral-novedades-2 {
+        top: 110px;
+    }
+
+}
+

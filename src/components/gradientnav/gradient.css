@@ -1,0 +1,34 @@
+.grandientNavbar {
+    align-items: center;
+    background: transparent linear-gradient(180deg,#05294f,#004990 11%,#3fb2c9 100%,#6cb2f1 0) 0 0 no-repeat padding-box;
+    display: flex;
+    height: 33px;
+    justify-content: flex-end;
+}
+
+.grandientNavbar_elements {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin-right: 20px;
+}
+
+.grandientNavbar_separator {
+    border-right: 1px solid #fff !important;
+    margin: 0 10px;
+    height: 20px;
+}
+
+.grandientNavbar_idioma {
+    align-items: center;
+    color: #fff;
+    display: flex;
+    font-size: 12px;
+    line-height: 2.3;
+}
+
+.grandientNavbar_idioma img {
+    width: 20px;
+    height: 20px;
+    margin: 0 10px;
+}

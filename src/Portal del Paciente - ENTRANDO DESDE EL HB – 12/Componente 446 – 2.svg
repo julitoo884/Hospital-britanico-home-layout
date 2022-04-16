@@ -1,0 +1,28 @@
+<svg id="Componente_446_2" data-name="Componente 446 – 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1938" height="118.187" viewBox="0 0 1938 118.187">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#07386b"/>
+      <stop offset="0.23" stop-color="#0755a1"/>
+      <stop offset="0.477" stop-color="#0e65b1"/>
+      <stop offset="1" stop-color="#55cce3"/>
+      <stop offset="1" stop-color="#6cb2f1"/>
+    </linearGradient>
+  </defs>
+  <path id="Trazado_85647" data-name="Trazado 85647" d="M0,118.187H1938V0H0Z" fill="url(#linear-gradient)"/>
+  <g id="Grupo_165178" data-name="Grupo 165178" transform="translate(0 -768.09)">
+    <path id="Icon_awesome-whatsapp" data-name="Icon awesome-whatsapp" d="M21.192,5.872A12.356,12.356,0,0,0,1.753,20.777L0,27.176l6.549-1.719a12.314,12.314,0,0,0,5.9,1.5h.006A12.47,12.47,0,0,0,24.926,14.607a12.4,12.4,0,0,0-3.733-8.735ZM12.457,24.878a10.248,10.248,0,0,1-5.23-1.43l-.373-.223L2.971,24.244l1.035-3.789-.245-.389a10.286,10.286,0,1,1,19.078-5.458A10.381,10.381,0,0,1,12.457,24.878Zm5.631-7.689c-.306-.156-1.825-.9-2.109-1s-.49-.156-.7.156-.8,1-.979,1.213-.362.234-.668.078a8.4,8.4,0,0,1-4.2-3.672c-.317-.545.317-.506.907-1.686a.572.572,0,0,0-.028-.54c-.078-.156-.7-1.675-.951-2.292-.25-.6-.506-.517-.7-.529S8.284,8.9,8.079,8.9a1.143,1.143,0,0,0-.823.384,3.468,3.468,0,0,0-1.079,2.576,6.046,6.046,0,0,0,1.257,3.194,13.791,13.791,0,0,0,5.274,4.662c1.958.846,2.726.918,3.705.773a3.161,3.161,0,0,0,2.081-1.469,2.581,2.581,0,0,0,.178-1.469C18.6,17.417,18.394,17.339,18.088,17.189Z" transform="translate(1332 843.75)" fill="#fff"/>
+    <g id="Grupo_165176" data-name="Grupo 165176" transform="translate(1.695)">
+      <g id="Grupo_165180" data-name="Grupo 165180" transform="translate(-7)">
+        <g id="Grupo_165175" data-name="Grupo 165175" transform="translate(364.305 838)">
+          <g id="Grupo_164893" data-name="Grupo 164893" transform="translate(0 9)">
+            <path id="Trazado_97594" data-name="Trazado 97594" d="M5.57,4h5.141l2.57,6.426-3.213,1.928a14.137,14.137,0,0,0,6.426,6.426l1.928-3.213,6.426,2.57v5.141a2.57,2.57,0,0,1-2.57,2.57A20.563,20.563,0,0,1,3,6.57,2.57,2.57,0,0,1,5.57,4" transform="translate(-3 -2.848)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+            <path id="Trazado_97595" data-name="Trazado 97595" d="M15,7a2.3,2.3,0,0,1,2.3,2.3" transform="translate(0.521 -1.826)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+            <path id="Trazado_97596" data-name="Trazado 97596" d="M15,3a6.913,6.913,0,0,1,6.913,6.913" transform="translate(1.087 -3)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          </g>
+        </g>
+        <text id="_549-1130159749" data-name="+549-1130159749" transform="translate(1370 838)" fill="#fff" font-size="30" font-family="Assistant-Medium, Assistant" font-weight="500" letter-spacing="0.001em"><tspan x="0" y="31">+549-1130159749</tspan></text>
+        <text id="Atención_telefónica_las_24hs:_4309-6400_Central_de_turnos_0810-222-2748_" data-name="Atención telefónica las 24hs: 4309-6400 / Central de turnos 0810-222-2748 / " transform="translate(862.926 869)" fill="#fff" font-size="30" font-family="Assistant"><tspan x="-464" y="0">Atención telefónica las 24hs: 4309-6400 / Central de turnos 0810-222-2748 / </tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

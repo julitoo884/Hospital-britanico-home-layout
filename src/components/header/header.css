@@ -1,0 +1,92 @@
+.header--navigation {
+    height: 113px;
+}
+
+.header--navigation-subnav {
+    height: 33px;
+    width: 100% ;
+    background-image : url('../../assets/rectangulo.png');
+    background-size: 100% 100%;
+}
+
+.header--navigation-nav {
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between !important;
+}
+
+.head--header-links-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0;
+}
+
+.head--header-links-container .logout-link {
+    color :red !important
+}
+
+.head--header-link {
+    list-style: none;
+    text-decoration: none;
+    padding : 0 15px !important;
+    width: auto;
+    font-size: 20px;
+    font-weight: 500;
+    color :#004990 !important
+}
+
+.head--header-logo {
+    width: 180px;
+}
+
+.head--header-home-btn {
+    width: 25px;
+    height: 20px;
+    margin: 20px;
+}
+
+.head--header-home-btn img {
+    width: 25px;
+    height: 20px;
+}
+
+.head--header-left {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: auto;
+    padding: 0 25px;
+}
+
+.head--header-left h3 {
+    color :#004990 !important
+}
+
+.head--header-right {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: auto;
+    padding: 0 25px;
+}
+
+@media (max-width : 991px) {
+    .navbar {
+        padding: 1rem;
+    }
+    .head--header-right .navbar-nav {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media (max-width : 580px) {
+    .head--header-left h3 {
+        display: none;
+    }
+    .head--header-logo {
+        width: 120px;
+    }
+}

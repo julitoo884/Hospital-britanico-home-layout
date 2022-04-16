@@ -1,0 +1,25 @@
+<svg id="Componente_385_1" data-name="Componente 385 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1223" height="166" viewBox="0 0 1223 166">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7d0000"/>
+      <stop offset="0.222" stop-color="#9c0000"/>
+      <stop offset="0.473" stop-color="#c80000"/>
+      <stop offset="0.749" stop-color="red"/>
+      <stop offset="1" stop-color="#ff7b7b"/>
+      <stop offset="1" stop-color="#6cb2f1"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_164311" data-name="Grupo 164311" transform="translate(-1717 -344)">
+    <g id="Grupo_165235" data-name="Grupo 165235">
+      <rect id="Rectángulo_149027" data-name="Rectángulo 149027" width="251" height="45" rx="22.5" transform="translate(1717 344)" opacity="0.87" fill="url(#linear-gradient)"/>
+      <text id="Novedades" transform="translate(1717 353)" fill="#fefefe" font-size="20" font-family="Assistant" font-weight="600"><tspan x="-47" y="20">Novedades</tspan></text>
+    </g>
+  </g>
+  <g id="Grupo_165236" data-name="Grupo 165236" transform="translate(-765 -350)">
+    <g id="Grupo_164311-2" data-name="Grupo 164311" transform="translate(20 69)">
+      <rect id="Rectángulo_149027-2" data-name="Rectángulo 149027" width="1015" height="103" rx="51.5" transform="translate(953 344)" opacity="0.87" fill="url(#linear-gradient)"/>
+      <text id="Novedades-2" data-name="Novedades" transform="translate(1012 355)" fill="#fefefe" font-size="20" font-family="Assistant" font-weight="600"><tspan x="0" y="20">Novedades</tspan></text>
+    </g>
+    <text id="Lorem_Ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry._Lorem_Ipsum_has_been_the_industry_s_standard_dummy_text_ever_since_the_1500s._Clic_aquí" data-name="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s. Clic aquí" transform="translate(1032 450)" fill="#fefefe" font-size="18" font-family="Assistant" font-weight="300"><tspan x="0" y="18">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s </tspan><tspan x="0" y="40">standard dummy text ever since the 1500s.</tspan><tspan y="40" font-weight="400"> </tspan><tspan y="40" font-weight="600">Clic aquí</tspan></text>
+  </g>
+</svg>
